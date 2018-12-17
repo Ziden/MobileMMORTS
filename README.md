@@ -1,6 +1,6 @@
 
-# Mobile MMORPG
-A nameless (yet) customizable mobile mmorpg in .net core (Server) and Unity (Client)
+# Mobile MMORTS
+A nameless (yet) customizable mobile mmo rts in .net core (Server) and Unity (Client) slightly based in Heroes of Might and Magic 3
 
 ## About
 
@@ -8,16 +8,7 @@ The infinite chunk based map loaded from tiled will be serve for this dungeon pa
 
 ### Features in initial roadmap:
 
-- Good Character Customization.
-- Few monsters, but different in behaviour and strategy.
-- Monsters drop materials, and thats it.
-- Automatic Party, everyone gets EXP.
-- Harvesting skills to collect materials.
-- Crafting skills to craft items.
-- PvP Zones.
-- "Quest" System ( simplistic )
-- Server Easily Moddable / Plugins System
-- React WebPanel
+- To Decide
 
 ## Requirements
 
